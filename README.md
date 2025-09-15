@@ -1,11 +1,11 @@
 # My Personal Portfolio
 
-Welcome to my personal portfolio! This website is a showcase of my work, skills, and experiences as a Full Stack Web Developer. It is designed to highlight my projects, professional journey, and areas of expertise in a clean and interactive way.
+Welcome to my personal portfolio! This website showcases my work, skills, and experiences as a Web Developer. It is designed to highlight my projects, professional journey, and areas of expertise in a clean and interactive way.
 
 ## 🚀 Features
 
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
-- **Projects Showcase:** Highlights my key projects with descriptions and links.
+- **Projects Showcase:** Highlights key projects with descriptions and links.
 - **About Me Section:** A brief introduction and professional background.
 - **Contact Section:** Easy access to reach me via email or LinkedIn.
 - **Dark/Light Mode:** Toggle between themes for a modern user experience.
@@ -16,7 +16,7 @@ Welcome to my personal portfolio! This website is a showcase of my work, skills,
 - HTML, CSS, JavaScript, React.js  
 - Tailwind CSS for styling  
 - Lucide React Icons for visuals  
-- Deployed on Netlify
+- Deployed on [Netlify / Vercel / GitHub Pages]
 
 ## 🌐 Live Demo
 
@@ -25,7 +25,7 @@ Check out the live version of my portfolio: [Click Here](https://somit-portfolio
 ## 📫 Contact Me
 
 - **Email:** [somityadav10@gmail.com](mailto:somityadav10@gmail.com)  
-- **LinkedIn:** [Linked Profile](https://www.linkedin.com/in/somit-prakash-524067284/)  
+- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/somit-prakash-524067284/)
 
 ---
 
