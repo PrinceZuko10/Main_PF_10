@@ -75,13 +75,15 @@ const Hero = () => {
                 Learn More About Me
               </button>
               <a
-                href="/Somit_Resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-8 py-4 border-2 border-white/30 text-white font-semibold rounded-lg hover:bg-white/10 transform hover:scale-105 transition-all duration-300"
-              >
-                View Resume
-              </a>
+  href="/Somit_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-8 py-4 border-2 border-white/30 text-white font-semibold rounded-lg hover:bg-white/10 transform hover:scale-105 transition-all duration-300"
+>
+  View Resume
+</a>
+
+
             </div>
           </div>
 
