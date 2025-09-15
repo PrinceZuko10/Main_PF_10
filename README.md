@@ -25,7 +25,7 @@ Check out the live version of my portfolio: [Click Here](https://somit-portfolio
 ## 📫 Contact Me
 
 - **Email:** [somityadav10@gmail.com](mailto:somityadav10@gmail.com)  
-- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/somit-prakash-524067284/)
+- **LinkedIn:** [Visit Profile](https://www.linkedin.com/in/somit-prakash-524067284/)
 
 ---
 
