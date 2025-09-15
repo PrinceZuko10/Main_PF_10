@@ -16,11 +16,11 @@ Welcome to my personal portfolio! This website showcases my work, skills, and ex
 - HTML, CSS, JavaScript, React.js  
 - Tailwind CSS for styling  
 - Lucide React Icons for visuals  
-- Deployed on [Netlify / Vercel / GitHub Pages]
+- Deployed on Netlify
 
 ## 🌐 Live Demo
 
-Check out the live version of my portfolio: [Click Here](https://somit-portfolio.netlify.app/)
+Check out the live version of my portfolio here: [Click here](https://somit-portfolio.netlify.app)
 
 ## 📫 Contact Me
 
