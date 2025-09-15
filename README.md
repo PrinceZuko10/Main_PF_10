@@ -20,7 +20,7 @@ Welcome to my personal portfolio! This website is a showcase of my work, skills,
 
 ## 🌐 Live Demo
 
-Check out the live version of my portfolio: [Click Here](somit-portfolio.netlify.app)
+Check out the live version of my portfolio: [Click Here](https://somit-portfolio.netlify.app/)
 
 ## 📫 Contact Me
 
