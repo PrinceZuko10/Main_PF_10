@@ -75,7 +75,7 @@ const Hero = () => {
                 Learn More About Me
               </button>
               <a
-  href="https://drive.google.com/file/d/1G2n1DAs7y-c31zGhUsJN8hp6jM1p_ZLl/view?usp=drive_link"
+  href="https://drive.google.com/file/d/1kLIiYIBtpXlLYgwhcHtpJr64VsXkUvX1/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="px-8 py-4 border-2 border-white/30 text-white font-semibold rounded-lg hover:bg-white/10 transform hover:scale-105 transition-all duration-300"
