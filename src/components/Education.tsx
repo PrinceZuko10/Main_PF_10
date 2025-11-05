@@ -9,7 +9,7 @@ const Education = () => {
       school: "University of Petroleum and Energy Studies (UPES)",
       location: "Dehradun, India",
       duration: "2022 - 2026",
-      gpa: "7.27/10.0",
+      gpa: "7.35/10.0",
       status: "Pursuing (Expected Graduation: 2026)",
       coursework: [
         "Cloud Computing",
