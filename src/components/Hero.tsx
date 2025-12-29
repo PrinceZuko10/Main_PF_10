@@ -91,7 +91,7 @@ const Hero = () => {
           <div className="mt-8 md:mt-0 w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-blue-400 to-indigo-600 p-1 shadow-2xl flex-shrink-0">
             <div className="w-full h-full rounded-full overflow-hidden">
               <img
-                src="https://i.postimg.cc/50c0KLfY/Final-photo.jpg"
+                src="https://ibb.co/gHMQbh4"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
